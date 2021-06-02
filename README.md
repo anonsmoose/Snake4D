@@ -13,7 +13,7 @@ The game ended up being pretty crazy, which is to be expected. You control the y
 
 ![](https://portfolio.doomer.gq/portfolio/snake/screen1.png)
 
-
+You can view a video of the gameplay on my portfolio site: [https://portfolio.doomer.gq/portfolio/4d-snake/](https://portfolio.doomer.gq/portfolio/4d-snake/)
 
 
 If you'd like to run it yourself, just import it as a project into eclipse, right click the project and run it as a Java application.
